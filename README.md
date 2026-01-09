@@ -59,7 +59,8 @@ Una vez instalada, abre la app y comienza a gestionar tus territorios.
 
 ---
 
-Desarrollado con ❤️ por **nitraM**
+Desarrollado by **nitraM**
+
 
 
 
