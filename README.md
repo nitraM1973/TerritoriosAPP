@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="logo.png" alt="Territory App Logo" width="150"/>
+</p>
+
 # 🗺️ Territory App
 ### Gestión Inteligente de Territorios de Predicación
 
