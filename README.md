@@ -1,8 +1,8 @@
 # 🗺️ Territory App
 ### Gestión Inteligente de Territorios de Predicación
 
-[![Versión](https://img.shields.io/badge/versión-1.0.1-blue.svg?style=for-the-badge)](https://github.com/nitraM1973/TerritoriosAPP/releases/latest)
-[![Plataforma](https://img.shields.io/badge/Plataforma-Android-green.svg?style=for-the-badge&logo=android)](https://github.com/nitraM1973/TerritoriosAPP/releases/latest)
+![Versión](https://img.shields.io/badge/versión-1.0.1-blue.svg?style=for-the-badge)
+![Plataforma](https://img.shields.io/badge/Plataforma-Android-green.svg?style=for-the-badge&logo=android)
 
 ---
 
@@ -15,7 +15,7 @@
 ### Paso 1: Descarga el APK
 Pulsa el botón de abajo para descargar el archivo instalador.
 
-[<img src="https://img.shields.io/badge/DESCARGAR_ÚLTIMA_VERSIÓN-24292e?style=for-the-badge&logo=github&logoColor=white&labelColor=2ea44f" width="300">](https://github.com/nitraM1973/TerritoriosAPP/releases/latest)
+[<img src="https://img.shields.io/badge/DESCARGAR_ÚLTIMA_VERSIÓN-24292e?style=for-the-badge&logo=github&logoColor=white&labelColor=2ea44f" width="300">](https://github.com/nitraM1973/TerritoriosAPP/releases/latest/download/TerritoriosAPP.apk)
 
 ### Paso 2: Abre el archivo descargado
 Toca el archivo APK en tu barra de notificaciones o en la carpeta de descargas.
@@ -37,7 +37,7 @@ Android te mostrará un aviso de seguridad porque la app no viene de Google Play
 ### Paso 4: ¡Listo para usar!
 Una vez instalada, abre la app y comienza a gestionar tus territorios.
 
-[<img src="https://img.shields.io/badge/DESCARGAR_ÚLTIMA_VERSIÓN-24292e?style=for-the-badge&logo=github&logoColor=white&labelColor=2ea44f" width="300">](https://github.com/nitraM1973/TerritoriosAPP/releases/latest)
+[<img src="https://img.shields.io/badge/DESCARGAR_ÚLTIMA_VERSIÓN-24292e?style=for-the-badge&logo=github&logoColor=white&labelColor=2ea44f" width="300">](https://github.com/nitraM1973/TerritoriosAPP/releases/latest/download/TerritoriosAPP.apk)
 
 > [!TIP]
 > **Actualizaciones automáticas**: No hace falta que vuelvas aquí a descargar. La propia aplicación te avisará cuando haya una nueva mejora disponible y se actualizará sola.
