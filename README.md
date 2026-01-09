@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="logo.png" alt="Territory App Logo" width="150"/>
-</p>
-
-# 🗺️ Territory App
+# <img src="logo.png" alt="Logo" width="40" style="vertical-align: middle;"/> Territory App
 ### Gestión Inteligente de Territorios de Predicación
 
 ![Versión](https://img.shields.io/badge/versión-1.0.1-blue.svg?style=for-the-badge)
