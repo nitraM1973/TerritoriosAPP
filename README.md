@@ -1,4 +1,4 @@
-# <img src="logo.png" alt="Logo" width="140" style="vertical-align: middle;"/> <p>Gestión de territorios App</p>
+# <img src="logo.png" alt="Logo" width="140" style="vertical-align: middle;"/> <p>Gestión de Territorios App</p>
 ### Gestión Inteligente de Territorios de Predicación
 
 ![Versión](https://img.shields.io/badge/versión-1.0.1-blue.svg?style=for-the-badge)
@@ -60,6 +60,7 @@ Una vez instalada, abre la app y comienza a gestionar tus territorios.
 ---
 
 Desarrollado con ❤️ por **nitraM**
+
 
 
 
