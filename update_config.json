@@ -1,5 +1,5 @@
 {
-  "min_required_version": "1.4.9",
-  "download_url": "https://github.com/nitraM1973/TerritoriosAPP/releases/latest",
-  "is_forced": true
+  "CriticalVersion": "1.4.9",
+  "UpdateUrl": "https://github.com/nitraM1973/TerritoriosAPP/releases/latest",
+  "Message": "Debido a una actualización crítica es obligatorio actualizar para continuar."
 }
