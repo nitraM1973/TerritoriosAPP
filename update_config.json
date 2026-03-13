@@ -1,5 +1,5 @@
 {
-  "CriticalVersion": "5.1.0",
+  "CriticalVersion": "5.2.2",
   "UpdateUrl": "https://github.com/nitraM1973/TerritoriosAPP/releases/latest/download/TerritoriosAPP.apk",
   "Message": "Se implementan las Push Notifications desde Admin a Users."
 }
