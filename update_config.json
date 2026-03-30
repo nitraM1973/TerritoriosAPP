@@ -1,5 +1,5 @@
 {
-  "CriticalVersion": "5.2.2",
+  "CriticalVersion": "5.6.0",
   "UpdateUrl": "https://github.com/nitraM1973/TerritoriosAPP/releases/latest/download/TerritoriosAPP.apk",
-  "Message": "Se implementan las Push Notifications desde Admin a Users."
+  "Message": "Se implementa marcado de entrega digital sin tarjeta así como el seguimiento de predicación grupal."
 }
